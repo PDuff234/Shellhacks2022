@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_veloexternal_db_name": {
+            "value": null
+        },
+        "servers_velosql_server_name": {
+            "value": null
+        },
+        "vaults_myvelo_db_key_vault_name": {
+            "value": null
+        },
+        "serverfarms_ASP_Shellhacks_b4a3_name": {
+            "value": null
+        },
+        "virtualNetworks_myVirtualNetwork_name": {
+            "value": null
+        }
+    }
+}
